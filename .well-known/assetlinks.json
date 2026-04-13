@@ -5,9 +5,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "company.takashi.cube_island",
+      "package_name": "company.takashi.cube_island_dummy",
       "sha256_cert_fingerprints": [
-        "E6:04:D2:9C:F2:37:12:67:BE:D1:8E:A6:E0:19:C4:54:FB:DB:BA:95:B2:8A:AD:8E:FB:44:1B:F7:C2:E8:14:CD"
+        "this is fake"
       ]
     }
   },
@@ -17,7 +17,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "company.takashi.cube_island_dummy",
+      "package_name": "company.takashi.cube_island",
       "sha256_cert_fingerprints": [
         "E6:04:D2:9C:F2:37:12:67:BE:D1:8E:A6:E0:19:C4:54:FB:DB:BA:95:B2:8A:AD:8E:FB:44:1B:F7:C2:E8:14:CD"
       ]
